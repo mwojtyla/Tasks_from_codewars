@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tasks.triplesorting.TripleSorterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-31T09:05:48" hostname="LAPTOP-DS1B2MLD" time="0.026">
+  <properties/>
+  <testcase name="basicTest()" classname="com.tasks.triplesorting.TripleSorterTest" time="0.026"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
