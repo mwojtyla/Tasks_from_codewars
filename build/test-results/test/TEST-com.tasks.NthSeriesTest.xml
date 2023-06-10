@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.tasks.NthSeriesTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-06-06T21:27:20" hostname="LAPTOP-DS1B2MLD" time="0.02">
-  <properties/>
-  <testcase name="test1()" classname="com.tasks.NthSeriesTest" time="0.017"/>
-  <testcase name="test2()" classname="com.tasks.NthSeriesTest" time="0.001"/>
-  <testcase name="test3()" classname="com.tasks.NthSeriesTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
